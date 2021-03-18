@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/ftp/CommandFactory.java=UTF-8
+encoding//src/ftp/ControllerThread.java=UTF-8
+encoding//src/ftp/DeleCommand.java=UTF-8
+encoding//src/ftp/DirCommand.java=UTF-8
+encoding//src/ftp/MkdCommand.java=UTF-8
+encoding//src/ftp/PassCommand.java=UTF-8
+encoding//src/ftp/PasvCommand.java=UTF-8
+encoding//src/ftp/RetrCommand.java=UTF-8
+encoding//src/ftp/RmdCommand.java=UTF-8
+encoding//src/ftp/Share.java=UTF-8
+encoding//src/ftp/StoreCommand.java=UTF-8
+encoding//src/ftp/ftp_server.java=UTF-8
+encoding//src/ftpClient/Frame_Main.java=UTF-8
+encoding//src/ftpClient/Ftp_client.java=UTF-8
+encoding//src/ftpClient/Ftp_passive.java=UTF-8

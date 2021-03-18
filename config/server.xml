@@ -1,0 +1,15 @@
+<config>
+    <rootDir>F:\ftp\</rootDir>
+    <users>
+        <user>
+            <username>admin</username>
+            <password>000000</password>
+        </user>
+        <user>
+            <username>admin1</username>
+            <password>111111</password>
+        </user>
+
+    </users>
+
+</config>
